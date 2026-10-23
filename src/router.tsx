@@ -4,7 +4,6 @@ import Pengalaman from "./pages/Pengalaman";
 import Project from "./pages/Project";
 import Keterampilan from "./pages/Keterampilan";
 import Kontak from "./pages/Kontak";
-import Download from "./pages/Download";
 import AdminLogin from "./pages/admin/AdminLogin";
 import AdminDashboard from "./pages/admin/AdminDashboard";
 import NotFound from "./pages/NotFound";
