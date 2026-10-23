@@ -15,7 +15,6 @@ export const routers = [
   { path: "/project", name: "project", element: <Project /> },
   { path: "/keterampilan", name: "keterampilan", element: <Keterampilan /> },
   { path: "/kontak", name: "kontak", element: <Kontak /> },
-  { path: "/download", name: "download", element: <Download /> },
   { path: "/admin/login", name: "admin-login", element: <AdminLogin /> },
   { path: "/admin", name: "admin", element: <AdminDashboard /> },
   /* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */
